@@ -161,7 +161,7 @@ Analyzes whether Automatic or Manual transmission vehicles have different averag
 
 ## 👤 Author
 
-**Ritu Raj Sharma**  
+**Harshal Laxman Gawas**  
 MS Data Science, University of Delaware  
 Interested in Data Analyst, Business Intelligence Analyst, and Data Science roles.
 
